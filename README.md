@@ -46,7 +46,8 @@ Welcome to my GitHub profile! I'm a passionate **developer** who loves building 
 
 ## 🎨 Fun Widgets
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=AkkalDhami)
+![Visitors](https://badges.pufler.dev/visits/AkkalDhami/AkkalDhami)
+
 
 ### 📈 Dynamic GitHub Contribution Graph
 
