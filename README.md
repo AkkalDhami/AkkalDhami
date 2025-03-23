@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a passionate **developer** who loves building 
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: **[Your Project Name](Project Link)**
-- 🌱 I’m learning: **Tailwind CSS, Express.js, Mongo Db, MYSQL**
+- 🔭 I’m currently working on: **[DishhDashh](https://dishhdashh.vercel.app/)**
+- 🌱 I’m currently learning: **Express.js, Mongo Db, MYSQL**
 - 💬 Ask me about: **Web Development, JavaScript, and Frontend Projects**
 - 📫 Reach me at: **akkaldhami21@gmail.com**
 - ⚡ Fun fact: **I love solving coding challenges!**
@@ -56,9 +56,6 @@ Welcome to my GitHub profile! I'm a passionate **developer** who loves building 
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🛸 Random Meme
-
-![Meme](https://random-memer.herokuapp.com/)
 
 > "Code is like humor. When you have to explain it, it’s bad." – *Cory House*
 
