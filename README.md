@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a passionate **developer** who loves building 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on: **[Your Project Name](Project Link)**
-- 🌱 I’m learning: **Tailwind CSS, Express.js**
-- 💬 Ask me about: **Web Development, JavaScript, and Full Stack Projects**
+- 🌱 I’m learning: **Tailwind CSS, Express.js, Mongo Db, MYSQL**
+- 💬 Ask me about: **Web Development, JavaScript, and Frontend Projects**
 - 📫 Reach me at: **akkaldhami21@gmail.com**
 - ⚡ Fun fact: **I love solving coding challenges!**
 
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate **developer** who loves building 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourname)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=web)](https://yourwebsite.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=web)](https://portfolio-akkal.vercel.app/)
 
 ## 🛠️ Tech Stack
 
@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate **developer** who loves building 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkkalDhami&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?AkkalDhami=yourusername&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?AkkalDhami=AkkalDhami&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkkalDhami&theme=dark)
 
@@ -39,13 +39,14 @@ Welcome to my GitHub profile! I'm a passionate **developer** who loves building 
 
 ## 📚 Latest Projects
 
-- 🛍️ [Project 1]([https://github.com/AkkalDhami/project1](https://nepkart.vercel.app/) - E-commerce Website
-- 🎵 [Project 2](https://dishhdashh.vercel.app/) - Food Delivery Website
-- 📊 [Project 3](https://terminal-portfolio-akkal.vercel.app/) - Terminal Portfolio
+- 🛍️ [NepKart](https://nepkart.vercel.app/) - E-commerce Website
+- 🎵 [DishhDashh](https://dishhdashh.vercel.app/) - Food Delivery Website
+- 📊 [CLI Portfolio](https://terminal-portfolio-akkal.vercel.app/) - Terminal Portfolio
+- 📊 [Portfolio](https://portfolio-akkal.vercel.app/) - Personal Portfolio
 
 ## 🎨 Fun Widgets
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=yourusername)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=AkkalDhami)
 
 ### 📈 Dynamic GitHub Contribution Graph
 
