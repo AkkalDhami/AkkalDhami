@@ -40,8 +40,8 @@ Welcome to my GitHub profile! I'm a passionate **developer** who loves building 
 ## 📚 Latest Projects
 
 - 🛍️ [NepKart](https://nepkart.vercel.app/) - E-commerce Website
-- 🎵 [DishhDashh](https://dishhdashh.vercel.app/) - Food Delivery Website
-- 📊 [CLI Portfolio](https://terminal-portfolio-akkal.vercel.app/) - Terminal Portfolio
+- 🛵 [DishhDashh](https://dishhdashh.vercel.app/) - Food Delivery Website
+- 👨‍💻 [CLI Portfolio](https://terminal-portfolio-akkal.vercel.app/) - Terminal Portfolio
 - 📊 [Portfolio](https://portfolio-akkal.vercel.app/) - Personal Portfolio
 
 ## 🎨 Fun Widgets
