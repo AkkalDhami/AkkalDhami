@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate **developer** who loves building 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourname)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=web)](https://portfolio-akkal.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=web)](https://akkal.vercel.app)
 
 ## 🛠️ Tech Stack
 
@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a passionate **developer** who loves building 
 - 🛍️ [NepKart](https://nepkart.vercel.app/) - E-commerce Website
 - 🛵 [DishhDashh](https://dishhdashh.vercel.app/) - Food Delivery Website
 - 👨‍💻 [CLI Portfolio](https://terminal-portfolio-akkal.vercel.app/) - Terminal Portfolio
-- 📊 [Portfolio](https://portfolio-akkal.vercel.app/) - Personal Portfolio
+- 📊 [Portfolio](https://akkal.vercel.app/) - Personal Portfolio
 
 ## 🎨 Fun Widgets
 
