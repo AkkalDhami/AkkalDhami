@@ -53,10 +53,6 @@ Welcome to my GitHub profile! I'm a passionate **developer** who loves building 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AkkalDhami&theme=react)
 
-### 🖼️ Random Meme
-
-![Meme](https://api.memegen.link/images/flat/custom/random_meme.png)
-
 
 ### 🧙‍♂️ Random Dev Quote
 
