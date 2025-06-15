@@ -4,16 +4,13 @@ Welcome to my GitHub profile! I'm a passionate **developer** who loves building 
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: **[DishhDashh](https://dishhdashh.vercel.app/)**
-- 🌱 I’m currently learning: **Express.js, Mongo Db, MYSQL**
+- 🔭 I’m currently working on: **[NepTask](https://neptask.vercel.app/)**
+- 🌱 I’m currently learning: **Mongo Db, MYSQL**
 - 💬 Ask me about: **Web Development, JavaScript, and Frontend Projects**
 - 📫 Reach me at: **akkaldhami21@gmail.com**
-- ⚡ Fun fact: **I love solving coding challenges!**
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourname)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=web)](https://akkal.vercel.app)
 
 ## 🛠️ Tech Stack
@@ -24,6 +21,7 @@ Welcome to my GitHub profile! I'm a passionate **developer** who loves building 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
 ## 📊 GitHub Stats
 
