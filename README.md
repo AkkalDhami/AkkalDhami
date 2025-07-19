@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate **developer** who loves building 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on: **[NepTask](https://neptask.vercel.app/)**
-- 🌱 I’m currently learning: **Mongo Db, MYSQL**
+- 🌱 I’m currently learning: **ReactJS**
 - 💬 Ask me about: **Web Development, JavaScript, and Frontend Projects**
 - 📫 Reach me at: **akkaldhami21@gmail.com**
 
