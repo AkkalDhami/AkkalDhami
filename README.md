@@ -5,13 +5,14 @@ Welcome to my GitHub profile! I'm a passionate **developer** who loves building 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on: **[NepTask](https://neptask.vercel.app/)**
-- 🌱 I’m currently learning: **ReactJS**
+- 🌱 I’m currently learning: **Next.JS**
 - 💬 Ask me about: **Web Development, JavaScript, and Frontend Projects**
 - 📫 Reach me at: **akkaldhami21@gmail.com**
 
 ## 🌐 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=web)](https://akkal.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=web)](https://akkaldhami.vercel.app)
 
 ## 🛠️ Tech Stack
 
