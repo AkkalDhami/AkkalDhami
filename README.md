@@ -1,4 +1,4 @@
-# Hey There 👋
+# 👋 Hey There!
 
 I'm Akkal Dhami,  Full-Stack Developer passionate about building modern, scalable web applications using Next.js, TypeScript, Node.js, and Drizzle ORM.
 I enjoy crafting seamless user experiences, writing clean and efficient code, and continuously learning new technologies to stay ahead in the ever-evolving web ecosystem.
