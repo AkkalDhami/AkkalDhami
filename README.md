@@ -1,6 +1,12 @@
-# 👋 Hello, I'm Akkal Dhami!
+# Hey There 👋
 
-Welcome to my GitHub profile! I'm a passionate **developer** who loves building innovative projects and learning new technologies.
+I'm Akkal Dhami,  Full-Stack Developer passionate about building modern, scalable web applications using Next.js, TypeScript, Node.js, and Drizzle ORM.
+I enjoy crafting seamless user experiences, writing clean and efficient code, and continuously learning new technologies to stay ahead in the ever-evolving web ecosystem.
+
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,materialui,ts,react,redux,next,nodejs,express,mongodb,mysql,redis,git,github,vscode,postman,figma,npm,vercel,vite,windows)](https://skillicons.dev)
+
+
 
 ## 🚀 About Me
 
@@ -13,20 +19,6 @@ Welcome to my GitHub profile! I'm a passionate **developer** who loves building 
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=web)](https://akkal.vercel.app)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=web)](https://akkaldhami.vercel.app)
-
-## 🛠️ Tech Stack
-
-<table>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" /></td>
-  </tr>
-</table>
 
 
 ## 🛠️ Tech Stack
