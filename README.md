@@ -1,6 +1,6 @@
 # 👋 Hey There!
 
-I'm Akkal Dhami,  Full-Stack Developer passionate about building modern, scalable web applications using Next.js, TypeScript, Node.js, and Drizzle ORM.
+I'm Akkal Dhami,  Full-Stack Developer passionate about building modern, scalable web applications using Next.js, TypeScript, Node.js, MySQL and MongoDB.
 I enjoy crafting seamless user experiences, writing clean and efficient code, and continuously learning new technologies to stay ahead in the ever-evolving web ecosystem.
 
 
@@ -73,11 +73,6 @@ I enjoy crafting seamless user experiences, writing clean and efficient code, an
 - 🛵 [DishhDashh](https://dishhdashh.vercel.app/) - Food Delivery Website
 - 👨‍💻 [CLI Portfolio](https://terminal-portfolio-akkal.vercel.app/) - Terminal Portfolio
 - 📊 [Portfolio](https://akkal.vercel.app/) - Personal Portfolio
-
-## 🎨 Fun Widgets
-
-![Visitors](https://badges.pufler.dev/visits/AkkalDhami/AkkalDhami)
-
 
 ### 📈 Dynamic GitHub Contribution Graph
 
