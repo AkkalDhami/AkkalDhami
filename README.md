@@ -4,7 +4,7 @@ I'm Akkal Dhami,  Full-Stack Developer passionate about building modern, scalabl
 I enjoy crafting seamless user experiences, writing clean and efficient code, and continuously learning new technologies to stay ahead in the ever-evolving web ecosystem.
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,materialui,ts,react,redux,next,nodejs,express,mongodb,mysql,redis,git,github,vscode,postman,figma,npm,vercel,vite,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,materialui,ts,react,redux,next,nodejs,express,mongodb,mysql,postgresql,redis,git,github,vscode,postman,figma,npm,vercel,vite,windows)](https://skillicons.dev)
 
 
 
@@ -48,6 +48,7 @@ I enjoy crafting seamless user experiences, writing clean and efficient code, an
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <img height="25" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/Redis-316192?style=for-the-badge&logo=redis&logoColor=red">
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-%23000000.svg?style=for-the-badge&logo=drizzle&logoColor=white)
 
 ---
