@@ -10,15 +10,13 @@ I enjoy crafting seamless user experiences, writing clean and efficient code, an
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: **[NepTask](https://neptask.vercel.app/)**
-- 🌱 I’m currently learning: **Next.JS**
-- 💬 Ask me about: **Web Development, JavaScript, and Frontend Projects**
+- 🔭 I’m currently building **[ServerCN](https://servercn.vercel.app/)**
+- 💬 Ask me about: **NodeJS, Web Development, JavaScript, and Frontend Projects**
 - 📫 Reach me at: **akkaldhami21@gmail.com**
 
 ## 🌐 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=web)](https://akkal.vercel.app)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=web)](https://akkaldhami.vercel.app)
 
 
 ## 🛠️ Tech Stack
@@ -73,12 +71,6 @@ I enjoy crafting seamless user experiences, writing clean and efficient code, an
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=AkkalDhami&theme=dracula)
 
-## 📚 Latest Projects
-
-- 🛍️ [NepKart](https://nepkart.vercel.app/) - E-commerce Website
-- 🛵 [DishhDashh](https://dishhdashh.vercel.app/) - Food Delivery Website
-- 👨‍💻 [CLI Portfolio](https://terminal-portfolio-akkal.vercel.app/) - Terminal Portfolio
-- 📊 [Portfolio](https://akkal.vercel.app/) - Personal Portfolio
 
 ### 📈 Dynamic GitHub Contribution Graph
 
