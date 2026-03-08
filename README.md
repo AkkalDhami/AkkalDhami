@@ -4,7 +4,7 @@ I'm Akkal Dhami,  Full-Stack Developer passionate about building modern, scalabl
 I enjoy crafting seamless user experiences, writing clean and efficient code, and continuously learning new technologies to stay ahead in the ever-evolving web ecosystem.
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,materialui,ts,react,redux,next,nodejs,express,mongodb,mysql,postgresql,redis,git,github,vscode,postman,figma,npm,vercel,vite,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,react,ts,nodejs,express,mongodb,mysql,postgresql,redis,html,css,js,tailwind,materialui,redux,git,github,vscode,postman,figma,npm,vercel,vite,windows)](https://skillicons.dev)
 
 
 
@@ -22,13 +22,11 @@ I enjoy crafting seamless user experiences, writing clean and efficient code, an
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 <img height="25" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
 <img height="25" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
 
@@ -60,16 +58,16 @@ I enjoy crafting seamless user experiences, writing clean and efficient code, an
 
 
 ## 📊 GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats-chi-five.vercel.app?user=AkkalDhami&theme=microsoft-dark&hide_border=true)](https://git.io/streak-stats)
+![](https://github-readme-stats-nettydevs-projects.vercel.app/api?username=AkkalDhami&theme=catppuccin_mocha&show_icons=true&hide_border=true)
+![](https://github-readme-stats-nettydevs-projects.vercel.app/api/top-langs/?username=AkkalDhami&theme=catppuccin_mocha&layout=compact&langs_count=8&hide_border=true)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkkalDhami&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkkalDhami&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkkalDhami&theme=dark)
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=AkkalDhami&theme=dracula)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NettyDev/AkkalDhami/snk/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NettyDev/AkkalDhami/snk/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NettyDev/AkkalDhami/snk/github-contribution-grid-snake.svg">
+</picture>
 
 
 ### 📈 Dynamic GitHub Contribution Graph
