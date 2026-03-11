@@ -1,8 +1,4 @@
-# 👋 Hey There!
-
-I'm Akkal Dhami,  Full-Stack Developer passionate about building modern, scalable web applications using Next.js, React.js, TypeScript, JavaScript, Node.js, MySQL and MongoDB.
-I enjoy crafting seamless user experiences, writing clean and efficient code, and continuously learning new technologies to stay ahead in the ever-evolving web ecosystem.
-
+# 👋 Hi, I'm Akkal Dhami
 
 [![My Skills](https://skillicons.dev/icons?i=next,react,ts,nodejs,express,mongodb,mysql,postgresql,redis,html,css,js,tailwind,materialui,redux,git,github,vscode,postman,figma,npm,vercel,vite,windows)](https://skillicons.dev)
 
