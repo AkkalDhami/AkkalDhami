@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Akkal Dhami
+# Hi, I'm Akkal Dhami
 
 [![My Skills](https://skillicons.dev/icons?i=next,react,ts,nodejs,express,mongodb,mysql,postgresql,redis,html,css,js,tailwind,materialui,redux,git,github,vscode,postman,figma,npm,vercel,vite,windows)](https://skillicons.dev)
 
