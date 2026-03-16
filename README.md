@@ -54,25 +54,23 @@
 
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats-chi-five.vercel.app?user=AkkalDhami&theme=microsoft-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-chi-five.vercel.app?user=AkkalDhami&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ![](https://github-readme-stats-nettydevs-projects.vercel.app/api?username=AkkalDhami&theme=catppuccin_mocha&show_icons=true&hide_border=true)
 ![](https://github-readme-stats-nettydevs-projects.vercel.app/api/top-langs/?username=AkkalDhami&theme=catppuccin_mocha&layout=compact&langs_count=8&hide_border=true)
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NettyDev/AkkalDhami/snk/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NettyDev/AkkalDhami/snk/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NettyDev/AkkalDhami/snk/github-contribution-grid-snake.svg">
-</picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkkalDhami&theme=tokyonight" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkkalDhami&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkkalDhami&theme=tokyonight&utcOffset=7" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkkalDhami&theme=tokyonight" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkkalDhami&theme=tokyonight" alt="Top Languages by Commit" />
 
 
 ### 📈 Dynamic GitHub Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AkkalDhami&theme=react)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AkkalDhami&theme=github-dark)
 
 
 ### 🧙‍♂️ Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
