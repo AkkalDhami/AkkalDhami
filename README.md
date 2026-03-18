@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently building **[ServerCN](https://servercn.vercel.app/)**
+- 🔭 I’m currently building **[servercn](https://servercn.vercel.app/)**
 - 💬 Ask me about: **NodeJS, Web Development, JavaScript, and Frontend Projects**
 - 📫 Reach me at: **akkaldhami21@gmail.com**
 
