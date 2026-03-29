@@ -6,13 +6,14 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently building **[servercn](https://servercn.vercel.app/)**
+- 🔭 I’m currently building **[servercn](https://servercn.xyz)**
 - 💬 Ask me about: **NodeJS, Web Development, JavaScript, and Frontend Projects**
 - 📫 Reach me at: **akkaldhami21@gmail.com**
 
 ## 🌐 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=web)](https://akkal.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=web)](https://akkaldhami.com.np)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=web)](https://akkal.com.np)
 
 
 ## 🛠️ Tech Stack
