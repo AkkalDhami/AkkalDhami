@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently building **[servercn](https://servercn.xyz)**
+- 🔭 I’m currently building **[servercn](https://servercn.xyz)**, **[discord-clone](https://discordbyakkal.vercel.app)**
 - 💬 Ask me about: **NodeJS, Web Development, JavaScript, and Frontend Projects**
 - 📫 Reach me at: **akkaldhami21@gmail.com**
 
