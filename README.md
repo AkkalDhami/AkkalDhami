@@ -5,7 +5,6 @@
 
 
 ## About Me
-- Learning Data Structures & Algorithms in C++
 - I’m currently building **[servercn](https://servercn.xyz)**, **[discord-clone](https://discordbyakkal.vercel.app)**
 - Portfolio: [**akkal.com.np**](https://akkal.com.np)
 - Reach me at: **dhamiakkal21@gmail.com**
