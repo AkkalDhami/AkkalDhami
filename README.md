@@ -5,7 +5,7 @@
 
 
 ## About Me
-- Currently learning and exploring **[System Design](https://www.akkal.com.np/system-design)**.
+- Currently learning and exploring **[system design](https://www.akkal.com.np/system-design)**.
 - I’m currently building **[servercn](https://servercn.xyz)**
 - Portfolio: [**akkal.com.np**](https://akkal.com.np)
 - Reach me at: **dhamiakkal21@gmail.com**
